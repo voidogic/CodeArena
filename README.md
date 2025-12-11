@@ -141,12 +141,10 @@ npm install
 PORT=5000
 
 DB_CONNECT_STRING=your_mongodb_uri
-REDIS_URL=redis://localhost:6379
-
+REDIS_PASS=redis://localhost:6379
 JWT_SECRET=your_jwt_secret
-
+JUDGE0_KEY=your_judge0_secret_key
 GOOGLE_AI_API_KEY=your_genai_key
-
 CLOUDINARY_NAME=your_cloudinary_name
 CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
